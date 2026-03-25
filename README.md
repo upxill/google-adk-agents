@@ -1,4 +1,4 @@
-# Google ADK sample agents
+# Google ADK Agents
 
 Small examples built with the [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) and Gemini (`gemini-2.5-flash`).
 
